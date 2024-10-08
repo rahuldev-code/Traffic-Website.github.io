@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    text-decoration: wavy;
+   color: white;
+   background-color: red;
+   padding: 50px;
+    
+}
+
+.color-box {
+    width: 200px; 
+    height: 200px;
+    border: 50px;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.section {
+    width: 50%; 
+    height: 50%; 
+    border-radius: 50px;
+    margin-left: 630px;
+    border: 100px;
+    padding: 4px;
+
+}
+
+.red {
+    background-color: red;
+    
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+body {
+    background-color: black;
+}
